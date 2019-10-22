@@ -26,3 +26,8 @@
     From 31545 To 31550 : 5
     Total: From 30270 To 31550 : 1280
     ```
+
+
+## Dependency
+
+I used OpenJDK 11.0.4 to make and check this program.
